@@ -1,0 +1,7 @@
+1-  JavaScript - бұл 
+веб-беттерге интерактивтілік қосу үшін қолданылады
+JavaScript-ті браузер орындайды
+ 2 - ctrl //
+ 3- function getDate() { document.getElementById("date").innerHTML
+}
+4- console .log ,function
